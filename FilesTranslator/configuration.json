@@ -1,0 +1,10 @@
+{
+  "DictionaryPath": "",
+  "ProjectPath": "",
+  "KeyColumn": 0,
+  "ValueColumn": 1,
+  "SkipHeader": true,
+  "FileSufix": "",
+  "SearchRegex": "'(?<str>.*?)'",
+  "LogFileName": "translation-log.txt"
+}
